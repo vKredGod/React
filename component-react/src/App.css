@@ -1,0 +1,55 @@
+.App-header {
+  margin:0 auto;
+  width:65%;
+}
+html {
+  background-color: #f7f7f7;
+}
+
+#input {
+  font-size: 15px;
+  padding: 0.75rem 1rem;
+  width: 177px;
+  height: 18px;
+  outline: none;
+  border-radius: 4px;
+  border:0.5px solid black;
+}
+.button {
+  outline: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0.40rem 1rem;
+  width: 100px;
+	border: 0;
+	border-radius: 0.317rem;
+	background-color: #aaa;
+	color: #fff;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 1rem;
+  line-height: 1.5;
+	font-family: "Helvetica Neue", Arial, sans-
+}
+.button:hover {
+  opacity: 0.85;
+}
+
+#clear {
+  margin-left: 10px;
+}
+
+.footer {
+  margin-bottom: 0px;
+  position: fixed;
+  text-align: center;
+  height: 50px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #3f3f3f;
+}
+#author {
+  margin-bottom: 0px ;
+  color: white;
+}
